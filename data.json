@@ -1,0 +1,17 @@
+{
+  "price_rule": {
+    "title": "SUMMESSRSALE10OFF",
+    "target_type": "line_item",
+    "target_selection": "all",
+    "allocation_method": "across",
+    "value_type": "fixed_amount",
+    "value": "-10.0",
+    "customer_selection": "all",
+    "entitled_product_ids":[
+        "2389483225165",
+        "2397131636813",
+        "2397132324941"
+    ],
+    "starts_at": "2019-11-19T17:59:10Z"
+  }
+}
